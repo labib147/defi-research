@@ -130,7 +130,7 @@ Market Expectaion:
 3. Bear - Price goes down
 
 ## ML Team: 
-
+# ML Team:
 Comes up with 
 
 
