@@ -129,7 +129,7 @@ Market Expectaion:
 2. Bull - Price goes up
 3. Bear - Price goes down
 
-**ML Team: **
+##ML Team: 
 
 Comes up with 
 
