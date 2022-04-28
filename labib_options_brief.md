@@ -1,6 +1,6 @@
-**Meeting brief**
+# Meeting brief
 
-**Options pricing:**
+## Options pricing:
 
 If a stock price is more volatile(mostly random), then it follows normal distribution. According to this theory the price should move around ±34% of the current market i.e. 34% up or a 34% down. The chances of the price being in this 68% range are the highest. 
 
@@ -130,7 +130,7 @@ Market Expectaion:
 3. Bear - Price goes down
 
 ## ML Team: 
-# ML Team:
+
 Comes up with 
 
 
