@@ -148,5 +148,7 @@ Comes up with
 
 Example: 
 ```
-Elon Musk buys Twitter. He wants to buy the shares at 54$. Current price of shares in 34$. So the price of shares will be increasing and will settle at a 80/20 range in between 34$ & 54$. Because the deal may break and the price will fall back to its initial value.
+Elon Musk buys Twitter. He wants to buy the shares at 54$. Current price of shares in 34$.
+So the price of shares will be increasing and will settle at a 80/20 range in between 34$ & 54$.
+Because the deal may break and the price will fall back to its initial value.
 ```
